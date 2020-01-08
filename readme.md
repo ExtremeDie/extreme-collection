@@ -1,28 +1,36 @@
-# extreme-collection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# extreme-collection 
 
 > An extreme collection that stores useful items.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Other Collection](#other-collection)
+- [Web Development](#web-development)
+- [Tools](#tools)
+- [Git Alternative](#git-alternative)
 
 
-## Section
+## Other Collection
 
-About this section. Optional. Keep this short and focus on the list.
+- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Web Development
+
+- Chinese - [若依/RuoYi](http://www.ruoyi.vip/) [![gitee](https://badgen.net/badge/⭐/Gitee/purple)](https://gitee.com/y_project/RuoYi) - Management System
 
 
-## Another Section
 
-### Subsection
+## Tools
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- Chinese - [MikuTools](https://tools.miku.ac/) [![github](https://badgen.net/badge/⭐/GitHub/purple)](https://github.com/Ice-Hazymoon/domains) - Tools Collection
+
+
+
+## Git Alternative
+
+- Chinese - [Gitee](https://gitee.com/)
 
 
 ## Contribute
@@ -32,7 +40,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[MIT License](license.md)
 
 To the extent possible under law, ExtremeDie has waived all copyright and
 related or neighboring rights to this work.
