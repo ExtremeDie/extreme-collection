@@ -9,6 +9,8 @@
 - [Web Development](#web-development)
 - [Tools](#tools)
 - [Git Alternative](#git-alternative)
+- [Ebooks](#ebooks)
+- [Google Drive](#google-drive)
 
 
 ## Other Collection
@@ -16,10 +18,10 @@
 - [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
 
+
 ## Web Development
 
 - Chinese - [若依/RuoYi](http://www.ruoyi.vip/) [![gitee](https://badgen.net/badge/⭐/Gitee/purple)](https://gitee.com/y_project/RuoYi) - Management System
-
 
 
 ## Tools
@@ -31,6 +33,18 @@
 ## Git Alternative
 
 - Chinese - [Gitee](https://gitee.com/)
+
+
+## Ebooks
+
+- Chinese - [奥丁读书小站](http://www.addsxz.com/index.html)
+
+
+## Google Drive
+
+- Chinese - [Google TeamDrive](https://gd.zxd.workers.dev/)
+- Chinese - [Google TeamDrive](https://gdrive.zppcw.cn/)
+
 
 
 ## Contribute
