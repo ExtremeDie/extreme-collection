@@ -8,6 +8,7 @@
 - [Other Collection](#other-collection)
 - [Web Development](#web-development)
 - [Tools](#tools)
+- [Hosting](#hosting)
 - [Git Alternative](#git-alternative)
 - [Ebooks](#ebooks)
 - [Google Drive](#google-drive)
@@ -22,12 +23,18 @@
 ## Web Development
 
 - Chinese - [若依/RuoYi](http://www.ruoyi.vip/) [![gitee](https://badgen.net/badge/⭐/Gitee/purple)](https://gitee.com/y_project/RuoYi) - Management System
+- Chinese - [ue2前端网](http://uyi2.com/) - Web Development Resources
+
+
 
 
 ## Tools
 
 - Chinese - [MikuTools](https://tools.miku.ac/) [![github](https://badgen.net/badge/⭐/GitHub/purple)](https://github.com/Ice-Hazymoon/domains) - Tools Collection
 
+## Hosting
+
+ - [Free Unlimited Web Hosting](https://infinityfree.net/)
 
 
 ## Git Alternative
@@ -44,6 +51,13 @@
 
 - Chinese - [Google TeamDrive](https://gd.zxd.workers.dev/)
 - Chinese - [Google TeamDrive](https://gdrive.zppcw.cn/)
+**
+https://gd.zxd.workers.dev 所屬團隊：yesyesxx.me
+https://gd.404edu.workers.dev 所屬團隊：alum.ccu.edu.tw
+http://leon.educationhost.cloud 所屬團隊：404 NOT FOUND
+https://gd.404edu.workers.dev 所屬團隊：alum.ccu.edu.tw
+https://teamdrive.xcpx.workers.dev 所屬團隊：swccd.edu
+http://leon.educationhost.cloud 所屬團隊：swccd.edu﻿
 
 
 
@@ -58,3 +72,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, ExtremeDie has waived all copyright and
 related or neighboring rights to this work.
+
+**: Not yet checked.
