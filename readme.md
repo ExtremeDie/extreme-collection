@@ -12,12 +12,14 @@
 - [Git Alternative](#git-alternative)
 - [Ebooks](#ebooks)
 - [Google Drive](#google-drive)
+- [Music](#music)
 
 
 ## Other Collection
 
 - [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
+- Chinese - [迷思爱](http://hao.misiai.com/) - Collection of Cloud Search, Analytics, Movies, Songs, Searchings, Magnets
 
 
 ## Web Development
@@ -59,6 +61,9 @@ https://gd.404edu.workers.dev 所屬團隊：alum.ccu.edu.tw
 https://teamdrive.xcpx.workers.dev 所屬團隊：swccd.edu
 http://leon.educationhost.cloud 所屬團隊：swccd.edu﻿
 
+
+## Music
+- Chinese - [![github](https://badgen.net/badge/⭐/GitHub/purple)](https://github.com/lyswhut/lx-music-desktop) - 洛雪音乐助手桌面版
 
 
 ## Contribute
